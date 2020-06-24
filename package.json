@@ -16,7 +16,8 @@
   },
   "devDependencies": {
     "eslint": "5.16.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.0.1",
+    "supertest": "^4.0.2"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
