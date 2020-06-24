@@ -4,9 +4,20 @@
 
 > Backend developer test for brain-agriculture! <a href="https://github.com/brain-agriculture/trabalhe-conosco" target="_blank">ClickMe!</a>
 
+### Install
+
+
+### Tests
+
+### Running
+
+`NODE_ENV=production node app.js --port=80 --verbose`
+
+
 ### Tech
 
 + [Sails framework documentation](https://sailsjs.com/get-started)
+
 
 ### Version info
 
